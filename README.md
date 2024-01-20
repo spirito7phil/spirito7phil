@@ -1,7 +1,7 @@
 ### Hi there, I am Spirito Phil 👋
 
 
-**spirito7phil/spirito7phil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--**spirito7phil/spirito7phil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+-->
